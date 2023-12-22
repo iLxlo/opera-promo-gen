@@ -38,7 +38,7 @@ This Python script empowers you to generate Discord promo links effortlessly. It
    or 
    start.bat
    ```
-Showcase 🖼️
+## Showcase 🖼️
 <details>
 <summary>Click to view showcase</summary>
 Finished Promo
