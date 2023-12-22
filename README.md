@@ -41,9 +41,10 @@ This Python script empowers you to generate Discord promo links effortlessly. It
 ## Showcase 🖼️
 <details>
 <summary>Click to view showcase</summary>
-Finished Promo
-
-In Progress
+### In Progress
+![In Progress Promo](showcase/Progress.png)
+### Finished Promo
+![Finished Promo](showcase/Finished.png)
 
 </details>
 
