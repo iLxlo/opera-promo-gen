@@ -11,6 +11,7 @@ This Python script empowers you to generate Discord promo links effortlessly. It
 - Multi-threaded promo code generation
 - Proxy support to bypass rate limits
 - User-friendly console interface
+- Built-in Discord bot
 
 ## Discord Bot Commands 🤖
 
