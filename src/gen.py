@@ -43,11 +43,16 @@ def gen_promo_link(num_links):
         if link:
             generated_links.append(link)
 
-    with open(Config.GENERATED_LINKS_FILE, "a") as output_file:
+    with open("./data/promos.txt", "a") as output_file:
         for link in generated_links:
-            output_file.write(f"{link}")
+            output_file.write(f"{link}\n") 
+
+#    with open(Config.GENERATED_LINKS_FILE, "a") as output_file:
+#        for link in generated_links:
+#            output_file.write(f"{link}")
 
     return generated_links
+
 
 
 def gen(proxy, message):
