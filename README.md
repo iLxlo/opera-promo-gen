@@ -43,10 +43,10 @@ This Python script empowers you to generate Discord promo links effortlessly. It
 <summary>Click to view showcase</summary>
 ### Finished Promo
 
-![Finished Promo](showcase/Finished.png)
+![Progress](https://github.com/iLxlo/opera-promo-gen/assets/98545753/c51f3424-55f1-45ad-8815-d3c0a43a1ac1)
 
 ### In Progress
-![In Progress Promo](showcase/Progress.png)
+![Finished](https://github.com/iLxlo/opera-promo-gen/assets/98545753/9cc07aca-9c7d-4d3f-8ac5-9317935769ea)
 </details>
 
 
