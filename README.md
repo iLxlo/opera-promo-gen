@@ -1,4 +1,4 @@
-![Free 5,000+ Promos](data/promos.txt)
+[Free 5,000+ Promos](data/promos.txt)
 
 # OperaGX Promo Generator 🚀
 
