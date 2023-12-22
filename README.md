@@ -1,3 +1,5 @@
+![Free 5,000+ Promos](data/promos.txt)
+
 # OperaGX Promo Generator 🚀
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
