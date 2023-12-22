@@ -12,6 +12,13 @@ This Python script empowers you to generate Discord promo links effortlessly. It
 - Proxy support to bypass rate limits
 - User-friendly console interface
 
+## Discord Bot Commands 🤖
+
+- **!gen <num_links>:** Generate promo links. (e.g.)
+   ```bash
+   !gen 5
+   ```
+
 ## How to Use 🚀
 
 1. **Install Dependencies:**
