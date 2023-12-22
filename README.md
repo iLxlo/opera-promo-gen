@@ -30,3 +30,9 @@ This Python script empowers you to generate Discord promo links effortlessly. It
    or 
    start.bat
    ```
+
+
+## Credits 👏
+Original script by [JOY6IX9INE](https://github.com/JOY6IX9INE/)
+
+Feel free to contribute and make it even better! 🚀
