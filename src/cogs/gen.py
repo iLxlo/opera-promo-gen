@@ -37,7 +37,7 @@ class PromoCog(commands.Cog):
         generated_links = []
 
         for i in range(1, num_links + 1):
-            progress_embed.description = f"Progress:```md\n# {i}/{num_links}```"
+            progress_embed.description = f"Progress:```md\n# {i}/{num_links}```\n ```ml\nReceived: {received_count} | Success: {success_count} | Failed: {failed_count} | Elapsed: {round(time.time() - start_time, 2)}s```"
             await progress_message.edit(embed=progress_embed)
             links = gen_promo_link(1)
 
@@ -53,7 +53,7 @@ class PromoCog(commands.Cog):
 
         success_embed = discord.Embed(
             title="Generation Complete",
-            description=f"Generated \n ```md\n> {num_links}/{num_links}```",
+            description=f"Generated \n ```md\n> {num_links}/{num_links}```\n ```ml\nReceived: {received_count} | Success: {success_count} | Failed: {failed_count} | Elapsed: {round(time.time() - start_time, 2)}s```",
             color=0x2f3136,
         )
         success_embed.set_footer(text="Made by @ilxlo", icon_url=icon_url)
